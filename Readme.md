@@ -23,10 +23,4 @@
 
 ## Запуск локально
 
-Запустите локальный сервер:
-
-```bash
-# Python 3
-python -m http.server 8000 
-
-или через VS Code Live Server
+Запустите локальный сервер через VS Code Live Server
